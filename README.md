@@ -1,4 +1,4 @@
-# 📞 Phone Number Information Lookup Tool 🌍
+# 📞 Known 1.0 Tool phonenumbers 🌍
 
 This Python script is a command-line tool designed to retrieve information about a phone number, including its location and carrier details. It leverages the `phonenumbers` library for parsing and validating phone numbers, the OpenCage Geocoder API for detailed location information, and `folium` for generating an interactive map of the phone number's approximate location. This tool helps you quickly identify the origin and carrier of a phone number.
 
